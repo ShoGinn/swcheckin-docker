@@ -1,0 +1,10 @@
+*.pyc
+Dockerfile
+htmlcov/
+*.xml
+.*
+*.md
+dockerfiles*
+*.dockerfile
+travis*
+LICENSE
