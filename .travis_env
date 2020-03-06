@@ -1,0 +1,2 @@
+DOCKER_DESCRIPTION="Docker container for the python program SouthwestCheckin"
+DOCKER_NAME="swcheckin-docker"

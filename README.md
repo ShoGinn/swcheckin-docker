@@ -35,7 +35,3 @@ shoginn/swcheckin-docker:latest \
 | branch | Status |
 |--------|--------|
 | master | [![Build Status](https://travis-ci.org/ShoGinn/swcheckin-docker.svg?branch=master)](https://travis-ci.org/ShoGinn/swcheckin-docker) |
-
-| Arch | Size/Layers | Commit |
-|------|-------------|--------|
-[![swcheckin-docker:latest](https://images.microbadger.com/badges/version/shoginn/swcheckin-docker:latest.svg)](https://microbadger.com/images/shoginn/swcheckin-docker:latest "Get your own version badge on microbadger.com") | [![swcheckin-docker-latest](https://images.microbadger.com/badges/image/shoginn/swcheckin-docker:latest.svg)](https://microbadger.com/images/shoginn/swcheckin-docker:latest "Get your own image badge on microbadger.com") | [![swcheckin](https://images.microbadger.com/badges/commit/shoginn/swcheckin-docker:latest.svg)](https://microbadger.com/images/shoginn/swcheckin-docker:latest "Get your own commit badge on microbadger.com")
